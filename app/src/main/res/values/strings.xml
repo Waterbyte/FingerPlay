@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Furious Fingo</string>
+    <string name="quickreactionmsg">Miss Fingo hates Ink Splashes (story for another time). Now, she is coming and there are Ink Splashes all over.
+    Make Sure you remove them all</string>
+    <string name="fastestfingermsg">Miss Fingo wants to know who has the Fastest Finger in the World</string>
+
+
+
+
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+    <string name="sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="license_failed">License check failed.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="app_id">613978700639</string>
+    <string name="package_name">sagar.mehar.furiousfingo</string>
+    <string name="leaderboard_the_fastest_finger_in_the_world">CgkI3_btn-8REAIQCw</string>
+    <string name="leaderboard_the_quickest_reaction">CgkI3_btn-8REAIQAw</string>
+    <string name="ad_unit_id">ca-app-pub-3557813860815274/5477711146</string>
+    <string name="zero">00:00</string>
+    <string name="signout">Sign Out</string>
+    <string name="Upgrade">Upgrade</string>
+
+</resources>

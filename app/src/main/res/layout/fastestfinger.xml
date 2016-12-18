@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#e1bee7">
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/timerbutton1"
+        android:src="@drawable/start1"
+        android:layout_gravity="center_horizontal"
+        android:alpha="1"
+        android:adjustViewBounds="true"
+        android:background="#e1bee7"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/fastestfingermsg"
+        android:id="@+id/fastest1"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#1b5e20"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textStyle="bold|italic"/>
+
+</LinearLayout>
